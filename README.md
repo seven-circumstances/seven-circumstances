@@ -1,2 +1,2 @@
-# Package name
-Package Name
+# Seven Circumstances
+'Seven circumstances' - the foundation of 'inquisitive semantics'.
